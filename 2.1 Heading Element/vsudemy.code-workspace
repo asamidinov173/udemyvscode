@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Personal Site"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../2.2 Paragraph Element"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "2.1 Heading Element"
+	}
+}
